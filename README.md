@@ -7,7 +7,7 @@ This is a minimalist Kanban board built with **React**, **TypeScript**, **Tailwi
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/JithinGeorge10/ChatDaddy-Minimalist-Kanban-Board.git
 cd kanban-board
 
