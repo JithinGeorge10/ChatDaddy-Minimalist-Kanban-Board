@@ -46,6 +46,12 @@ Double-click behavior is not assigned to any functionality
 
 A task can only be moved across columns, not reordered within the same column (unless added later)
 
+
+
+![Kanban Board Preview](https://raw.githubusercontent.com/JithinGeorge10/ChatDaddy-Minimalist-Kanban-Board/main/sample.png)
+
+
+
 ### Built With
 React
 
