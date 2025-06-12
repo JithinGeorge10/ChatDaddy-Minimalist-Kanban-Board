@@ -1,4 +1,4 @@
-# 📝 Minimalist Kanban Board (Personal Tasks Tracker)
+# 📝 Frontend Test — Minimalist Kanban Board
 
 This is a minimalist Kanban board built with **React**, **TypeScript**, **Tailwind CSS**, and **@dnd-kit** for drag-and-drop functionality. Tasks are persisted locally using `localStorage`.
 
